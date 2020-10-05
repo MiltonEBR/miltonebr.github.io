@@ -72,6 +72,12 @@ barba.init({
 			beforeEnter({ next }) {
 				loadScript('./scripts/projects.js', next);
 			}
+		},
+		{
+			namespace: 'home',
+			beforeEnter({ next }) {
+				loadScript('./scripts/index.js', next);
+			}
 		}
 	]
 });

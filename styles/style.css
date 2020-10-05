@@ -147,9 +147,15 @@ footer > img {
 	transform: translateX(-100%);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
 	header > h1 {
 		font-size: 12em;
+	}
+}
+
+@media (max-width: 800px) {
+	header > h1 {
+		font-size: 8em;
 	}
 
 	.social-link {
@@ -158,5 +164,18 @@ footer > img {
 
 	#social-list > li {
 		margin: 0 .2em;
+	}
+
+	#home-btn > h2 {
+		visibility: hidden;
+	}
+
+	#home-btn > i {
+		justify-self: center;
+	}
+
+	#home-btn {
+		width: 40px;
+		grid-template-columns: 100% auto;
 	}
 }
