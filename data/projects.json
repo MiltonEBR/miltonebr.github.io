@@ -1,0 +1,37 @@
+[
+	{
+		"title": "Project 1",
+		"thumb": "./images/gatito.png",
+		"smallThumbs": [ "./images/gatito.png" ],
+		"short": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate accusantium itaque cupiditate",
+		"full": "<h1>Example Project 1</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p><div class=\"img-holder\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"></div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p>"
+	},
+	{
+		"title": "Project 2",
+		"thumb": "./images/gatito.png",
+		"smallThumbs": [ "./images/gatito.png", "./images/gatito.png" ],
+		"short": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate accusantium itaque cupiditate",
+		"full": "<h1>Example Project 2</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p><div class=\"img-holder\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"></div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p>"
+	},
+	{
+		"title": "Project 3",
+		"thumb": "./images/gatito.png",
+		"smallThumbs": [ "./images/gatito.png", "./images/gatito.png", "./images/gatito.png" ],
+		"short": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate accusantium itaque cupiditate",
+		"full": "<h1>Example Project 3</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p><div class=\"img-holder\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"></div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p>"
+	},
+	{
+		"title": "Project 4",
+		"thumb": "./images/gatito.png",
+		"smallThumbs": [ "./images/gatito.png", "./images/gatito.png", "./images/gatito.png" ],
+		"short": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate accusantium itaque cupiditate",
+		"full": "<h1>Example Project 4</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p><div class=\"img-holder\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"></div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p>"
+	},
+	{
+		"title": "Project 5",
+		"thumb": "./images/gatito.png",
+		"smallThumbs": [ "./images/gatito.png", "./images/gatito.png", "./images/gatito.png" ],
+		"short": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate accusantium itaque cupiditate",
+		"full": "<h1>Example Project 5</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p><div class=\"img-holder\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"><img src=\"./images/gatito.png\" alt=\"\"></div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium nesciunt iusto nobis vitae debitis modi id veritatis molestias repudiandae accusamus totam ea obcaecati officia animi, cumque velit voluptatum temporibus fuga?</p>"
+	}
+]
