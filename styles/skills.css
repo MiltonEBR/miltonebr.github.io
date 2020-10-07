@@ -55,10 +55,6 @@
 	transition: all 0.4s;
 }
 
-.skill-container:hover .skill-overlay {
-	opacity: 1;
-}
-
 .skill-detail {
 	position: absolute;
 	text-align: center;
@@ -77,17 +73,6 @@
 	font-weight: var(--txt-wgt);
 	color: var(--clr-txt);
 	font-size: 2em;
-}
-
-.skill-container:hover .skill-detail {
-	top: 50%;
-	left: 50%;
-	opacity: 1;
-}
-
-.skill-container:hover {
-	z-index: 100;
-	transform: scale(1.2);
 }
 
 .skill-container > img {
@@ -151,6 +136,24 @@
 	height: min-content;
 	border-radius: 20px;
 }
+
+@media (min-width: 801px) {
+	.skill-container:hover .skill-detail {
+		top: 50%;
+		left: 50%;
+		opacity: 1;
+	}
+
+	.skill-container:hover {
+		z-index: 100;
+		transform: scale(1.2);
+	}
+
+	.skill-container:hover .skill-overlay {
+		opacity: 1;
+	}
+}
+
 @media (max-width: 1200px) {
 	#intro-container {
 		padding: 150px 15% 0% 15%;
